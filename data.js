@@ -1,4 +1,5 @@
 var label = ["conference", "abstract", "paper", "notification", "date", "location"];
+var check = ["abstract", "paper", "notification"];
 var data = [
 	{
 		"conference": "AAAI 2018",
