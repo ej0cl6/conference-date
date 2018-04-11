@@ -2,13 +2,13 @@ var label = ["conference", "abstract", "paper", "notification", "date", "locatio
 var check = ["abstract", "paper", "notification"];
 var data = [
 	{
-		"conference": "AAAI 2018",
-		"abstract": "2017/09/08",
-		"paper": "2017/09/11",
-		"notification": "2017/11/09",
-		"date": "2018/02/02 - 2018/02/07",
-		"location": "New Orleans, Louisiana, USA",
-		"link": "https://aaai.org/Conferences/AAAI-18/"
+		"conference": "AAAI 2019",
+		"abstract": "",
+		"paper": "",
+		"notification": "",
+		"date": "2019/01/27 - 2019/02/01",
+		"location": "Honolulu, Hawaii, USA",
+		"link": "https://aaai.org/Conferences/AAAI-19/"
 	},
 	{
 		"conference": "ICLR 2018",
@@ -47,13 +47,13 @@ var data = [
 		"link": "http://prada-research.net/pakdd18/"
 	},
 	{
-		"conference": "CVPR 2018",
+		"conference": "CVPR 2019",
 		"abstract": "",
-		"paper": "2017/11/15",
-		"notification": "2018/02/28",
-		"date": "2018/06/18 - 2018/06/22",
-		"location": "Salt Lake City, Utah, USA",
-		"link": "http://cvpr2018.thecvf.com/"
+		"paper": "",
+		"notification": "",
+		"date": "2019/06/15 - 2019/06/21",
+		"location": "Long Beach, California, USA",
+		"link": "http://cvpr2019.thecvf.com/"
 	},
 	{
 		"conference": "ICML 2018",
