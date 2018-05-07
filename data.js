@@ -3,9 +3,9 @@ var check = ["abstract", "paper", "notification"];
 var data = [
 	{
 		"conference": "AAAI 2019",
-		"abstract": "",
-		"paper": "",
-		"notification": "",
+		"abstract": "2018/09/01",
+		"paper": "2018/09/05",
+		"notification": "2018/11/01",
 		"date": "2019/01/27 - 2019/02/01",
 		"location": "Honolulu, Hawaii, USA",
 		"link": "https://aaai.org/Conferences/AAAI-19/"
@@ -140,7 +140,7 @@ var data = [
 		"conference": "NIPS 2018",
 		"abstract": "",
 		"paper": "2018/05/18",
-		"notification": "",
+		"notification": "2018/09/01",
 		"date": "2018/12/03 - 2018/12/08",
 		"location": "Montreal, Canada",
 		"link": "https://nips.cc/Conferences/2018"
