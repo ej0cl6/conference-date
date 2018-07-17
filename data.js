@@ -49,20 +49,20 @@ var data = [
 	{
 		"conference": "CVPR 2019",
 		"abstract": "",
-		"paper": "",
+		"paper": "2018/11/16",
 		"notification": "",
 		"date": "2019/06/15 - 2019/06/21",
 		"location": "Long Beach, California, USA",
 		"link": "http://cvpr2019.thecvf.com/"
 	},
 	{
-		"conference": "ICML 2018",
+		"conference": "ICML 2019",
 		"abstract": "",
-		"paper": "2018/02/09",
+		"paper": "",
 		"notification": "",
-		"date": "2018/07/10 - 2018/07/15",
-		"location": "Stockholm, Sweden",
-		"link": "https://icml.cc/"
+		"date": "2019/06/10 - 2019/06/15",
+		"location": "Long Beach, California, USA",
+		"link": "https://icml.cc/Conferences/2019"
 	},
 	{
 		"conference": "IJCAI 2018",
@@ -74,13 +74,13 @@ var data = [
 		"link": "http://www.ijcai-18.org/"
 	},
 	{
-		"conference": "ACL 2018",
+		"conference": "ACL 2019",
 		"abstract": "",
-		"paper": "2018/02/22",
-		"notification": "2018/04/20",
-		"date": "2018/07/15 - 2018/07/20",
-		"location": "Melbourne, Australia",
-		"link": "http://acl2018.org/"
+		"paper": "",
+		"notification": "",
+		"date": "2019/07/28 - 2019/08/02",
+		"location": "Florence, Italy",
+		"link": "http://acl2019.org/"
 	},
 	{
 		"conference": "KDD 2018",
