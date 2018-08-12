@@ -22,11 +22,11 @@ var data = [
 	{
 		"conference": "ICLR 2018",
 		"abstract": "",
-		"paper": "2017/10/27",
-		"notification": "2018/01/29",
-		"date": "2018/04/30 - 2018/05/03",
-		"location": "Vancouver, Canada",
-		"link": "https://iclr.cc/Conferences/2018"
+		"paper": "2018/09/27",
+		"notification": "2018/12/20",
+		"date": "2019/05/06 - 2019/05/09",
+		"location": "New Orleans, Louisiana, USA",
+		"link": "https://iclr.cc/Conferences/2019"
 	},
 	{
 		"conference": "CVPR 2019",
@@ -111,9 +111,9 @@ var data = [
 	},
 	{
 		"conference": "NAACL 2019",
-		"abstract": "",
-		"paper": "",
-		"notification": "",
+		"abstract": "2018/12/03",
+		"paper": "2018/12/10",
+		"notification": "2019/02/22",
 		"date": "2019/06/02 - 2019/06/07",
 		"location": "Minneapolis, Minnesota, USA",
 		"link": "http://naacl2019.org/"
