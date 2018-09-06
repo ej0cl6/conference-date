@@ -20,7 +20,7 @@ var data = [
 		"link": "https://nips.cc/Conferences/2018"
 	},
 	{
-		"conference": "ICLR 2018",
+		"conference": "ICLR 2019",
 		"abstract": "",
 		"paper": "2018/09/27",
 		"notification": "2018/12/20",
@@ -65,13 +65,13 @@ var data = [
 		"link": "https://aaai.org/Conferences/AAAI-19/"
 	},
 	{
-		"conference": "IJCAI 2018",
-		"abstract": "2018/01/25",
-		"paper": "2018/01/31",
-		"notification": "2018/04/16",
-		"date": "2018/07/13 - 2018/07/19",
-		"location": "Stockholm, Sweden",
-		"link": "http://www.ijcai-18.org/"
+		"conference": "IJCAI 2019",
+		"abstract": "",
+		"paper": "",
+		"notification": "",
+		"date": "2019/08/10 - 2019/08/16",
+		"location": "Macao, China",
+		"link": "http://ijcai19.org/"
 	},
 	{
 		"conference": "KDD 2018",
