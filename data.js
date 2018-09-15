@@ -74,13 +74,13 @@ var data = [
 		"link": "http://ijcai19.org/"
 	},
 	{
-		"conference": "KDD 2018",
+		"conference": "KDD 2019",
 		"abstract": "",
-		"paper": "2018/02/11",
-		"notification": "2018/05/06",
-		"date": "2018/08/19 - 2018/08/23",
-		"location": "London, United Kingdom",
-		"link": "http://www.kdd.org/kdd2018/"
+		"paper": "",
+		"notification": "",
+		"date": "2019/08/03 - 2019/08/07",
+		"location": "Anchorage, Alaska, USA",
+		"link": "http://www.kdd.org/kdd2019/"
 	},
 	{
 		"conference": "ICDM 2018",
@@ -119,13 +119,13 @@ var data = [
 		"link": "http://naacl2019.org/"
 	},
 	{
-		"conference": "ECML 2018",
-		"abstract": "2018/04/05",
-		"paper": "2018/04/12",
-		"notification": "2018/06/14",
-		"date": "2018/09/10 - 2018/09/14",
-		"location": "Dublin, Ireland",
-		"link": "http://www.ecmlpkdd2018.org/"
+		"conference": "ECML 2019",
+		"abstract": "",
+		"paper": "",
+		"notification": "",
+		"date": "2019/09/16 - 2019/09/20",
+		"location": "Würzburg, Germany",
+		"link": "http://ecmlpkdd2019.org/"
 	},
 	{
 		"conference": "SDM 2019",
