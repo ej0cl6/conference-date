@@ -94,8 +94,8 @@ var data = [
 	{
 		"conference": "ICCV 2019",
 		"abstract": "",
-		"paper": "",
-		"notification": "",
+		"paper": "2019/03/22",
+		"notification": "2019/07/22",
 		"date": "2019/10/27 - 2019/11/03",
 		"location": "Seoul, Korea",
 		"link": "http://iccv2019.thecvf.com/"
@@ -144,15 +144,6 @@ var data = [
 		"date": "2019/04/15 - 2019/04/18",
 		"location": "Macau, China",
 		"link": "http://pakdd2019.medmeeting.org/Content/91973"
-	},
-	{
-		"conference": "ACML 2018",
-		"abstract": "",
-		"paper": "2018/08/01",
-		"notification": "2018/09/20",
-		"date": "2018/11/14 - 2018/11/16",
-		"location": "Beijing, China",
-		"link": "http://acml-conf.org/2018/"
 	},
 ];
 
