@@ -40,8 +40,8 @@ var data = [
 	{
 		"conference": "ACL 2019",
 		"abstract": "",
-		"paper": "",
-		"notification": "",
+		"paper": "2019/03/04",
+		"notification": "2019/05/13",
 		"date": "2019/07/28 - 2019/08/02",
 		"location": "Florence, Italy",
 		"link": "http://acl2019.org/"
