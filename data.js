@@ -3,8 +3,8 @@ var check = ["abstract", "paper", "notification"];
 var data = [
 	{
 		"conference": "ICML 2019",
-		"abstract": "",
-		"paper": "",
+		"abstract": "2019/01/18",
+		"paper": "2019/01/23",
 		"notification": "",
 		"date": "2019/06/10 - 2019/06/15",
 		"location": "Long Beach, California, USA",
