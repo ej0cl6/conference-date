@@ -76,8 +76,8 @@ var data = [
 	{
 		"conference": "KDD 2019",
 		"abstract": "",
-		"paper": "",
-		"notification": "",
+		"paper": "2019/02/03",
+		"notification": "2019/04/28",
 		"date": "2019/08/03 - 2019/08/07",
 		"location": "Anchorage, Alaska, USA",
 		"link": "http://www.kdd.org/kdd2019/"
