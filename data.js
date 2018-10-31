@@ -32,7 +32,7 @@ var data = [
 		"conference": "CVPR 2019",
 		"abstract": "",
 		"paper": "2018/11/16",
-		"notification": "",
+		"notification": "2019/03/02",
 		"date": "2019/06/15 - 2019/06/21",
 		"location": "Long Beach, California, USA",
 		"link": "http://cvpr2019.thecvf.com/"
@@ -67,8 +67,8 @@ var data = [
 	{
 		"conference": "IJCAI 2019",
 		"abstract": "",
-		"paper": "",
-		"notification": "",
+		"paper": "2019/02/25",
+		"notification": "2019/05/09",
 		"date": "2019/08/10 - 2019/08/16",
 		"location": "Macao, China",
 		"link": "http://ijcai19.org/"
