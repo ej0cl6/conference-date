@@ -47,13 +47,13 @@ var data = [
 		"link": "http://acl2019.org/"
 	},
 	{
-		"conference": "EMNLP 2018",
+		"conference": "EMNLP 2019",
 		"abstract": "",
-		"paper": "2018/05/22",
-		"notification": "2018/08/06",
-		"date": "2018/10/31 - 2018/11/04",
-		"location": "Brussels, Belgium",
-		"link": "http://emnlp2018.org/"
+		"paper": "2019/05/21",
+		"notification": "2019/08/12",
+		"date": "2019/11/03 - 2018/11/07",
+		"location": "Hong Kong, China",
+		"link": "https://www.emnlp-ijcnlp2019.org/"
 	},
 	{
 		"conference": "AAAI 2019",
@@ -101,13 +101,13 @@ var data = [
 		"link": "http://iccv2019.thecvf.com/"
 	},
 	{
-		"conference": "ECCV 2018",
+		"conference": "ECCV 2020",
 		"abstract": "",
-		"paper": "2018/03/14",
-		"notification": "2018/07/01",
-		"date": "2018/09/08 - 2018/09/14",
-		"location": "Munich, Germany",
-		"link": "https://eccv2018.org/"
+		"paper": "",
+		"notification": "",
+		"date": "2020/08/29 - 2020/09/04",
+		"location": "Edinburgh, United Kingdom",
+		"link": "http://eccv2020.eu/"
 	},
 	{
 		"conference": "NAACL 2019",
@@ -135,15 +135,6 @@ var data = [
 		"date": "2019/05/02 - 2019/05/04",
 		"location": "Calgary, Alberta, Canada",
 		"link": "http://www.siam.org/meetings/sdm19/"
-	},
-	{
-		"conference": "PAKDD 2019",
-		"abstract": "",
-		"paper": "2018/10/10",
-		"notification": "2018/12/15",
-		"date": "2019/04/15 - 2019/04/18",
-		"location": "Macau, China",
-		"link": "http://pakdd2019.medmeeting.org/Content/91973"
 	},
 ];
 
