@@ -120,21 +120,12 @@ var data = [
 	},
 	{
 		"conference": "ECML 2019",
-		"abstract": "",
-		"paper": "",
-		"notification": "",
+		"abstract": "2019/03/29",
+		"paper": "2019/04/05",
+		"notification": "2019/06/07",
 		"date": "2019/09/16 - 2019/09/20",
 		"location": "Würzburg, Germany",
 		"link": "http://ecmlpkdd2019.org/"
-	},
-	{
-		"conference": "SDM 2019",
-		"abstract": "2018/10/05",
-		"paper": "2018/10/12",
-		"notification": "",
-		"date": "2019/05/02 - 2019/05/04",
-		"location": "Calgary, Alberta, Canada",
-		"link": "http://www.siam.org/meetings/sdm19/"
 	},
 ];
 
