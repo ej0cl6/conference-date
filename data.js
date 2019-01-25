@@ -83,13 +83,13 @@ var data = [
 		"link": "http://www.kdd.org/kdd2019/"
 	},
 	{
-		"conference": "ICDM 2018",
+		"conference": "ICDM 2019",
 		"abstract": "",
-		"paper": "2018/06/05",
-		"notification": "2018/08/17",
-		"date": "2018/11/17 - 2018/11/20",
-		"location": "Singapore",
-		"link": "http://icdm2018.org/"
+		"paper": "2019/06/05",
+		"notification": "2019/08/08",
+		"date": "2019/11/08 - 2019/11/11",
+		"location": "Beijing, China",
+		"link": "http://icdm2019.bigke.org/"
 	},
 	{
 		"conference": "ICCV 2019",
@@ -117,15 +117,6 @@ var data = [
 		"date": "2019/06/02 - 2019/06/07",
 		"location": "Minneapolis, Minnesota, USA",
 		"link": "http://naacl2019.org/"
-	},
-	{
-		"conference": "ECML 2019",
-		"abstract": "2019/03/29",
-		"paper": "2019/04/05",
-		"notification": "2019/06/07",
-		"date": "2019/09/16 - 2019/09/20",
-		"location": "Würzburg, Germany",
-		"link": "http://ecmlpkdd2019.org/"
 	},
 ];
 
