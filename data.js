@@ -11,13 +11,13 @@ var data = [
 		"link": "https://icml.cc/Conferences/2019"
 	},
 	{
-		"conference": "NIPS 2018",
+		"conference": "NIPS 2019",
 		"abstract": "",
-		"paper": "2018/05/18",
-		"notification": "2018/09/01",
-		"date": "2018/12/03 - 2018/12/08",
-		"location": "Montreal, Canada",
-		"link": "https://nips.cc/Conferences/2018"
+		"paper": "",
+		"notification": "",
+		"date": "2019/12/02 - 2019/12/08",
+		"location": "Vancouver, Canada",
+		"link": "https://nips.cc/Conferences/2019"
 	},
 	{
 		"conference": "ICLR 2019",
@@ -56,13 +56,13 @@ var data = [
 		"link": "https://www.emnlp-ijcnlp2019.org/"
 	},
 	{
-		"conference": "AAAI 2019",
-		"abstract": "2018/09/01",
-		"paper": "2018/09/05",
-		"notification": "2018/11/01",
-		"date": "2019/01/27 - 2019/02/01",
-		"location": "Honolulu, Hawaii, USA",
-		"link": "https://aaai.org/Conferences/AAAI-19/"
+		"conference": "AAAI 2020",
+		"abstract": "",
+		"paper": "",
+		"notification": "",
+		"date": "2020/02/07 - 2020/02/12",
+		"location": "New York, New York, USA",
+		"link": "https://aaai.org/Conferences/AAAI-20/"
 	},
 	{
 		"conference": "IJCAI 2019",
