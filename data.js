@@ -12,10 +12,10 @@ var data = [
 	},
 	{
 		"conference": "NIPS 2019",
-		"abstract": "",
-		"paper": "",
-		"notification": "",
-		"date": "2019/12/02 - 2019/12/08",
+		"abstract": "2019/05/16",
+		"paper": "2019/05/23",
+		"notification": "2019/09/04",
+		"date": "2019/12/08 - 2019/12/14",
 		"location": "Vancouver, Canada",
 		"link": "https://nips.cc/Conferences/2019"
 	},
