@@ -2,13 +2,13 @@ var label = ["conference", "abstract", "paper", "notification", "date", "locatio
 var check = ["abstract", "paper", "notification"];
 var data = [
 	{
-		"conference": "ICML 2019",
-		"abstract": "2019/01/18",
-		"paper": "2019/01/23",
+		"conference": "ICML 2020",
+		"abstract": "",
+		"paper": "",
 		"notification": "",
-		"date": "2019/06/10 - 2019/06/15",
-		"location": "Long Beach, California, USA",
-		"link": "https://icml.cc/Conferences/2019"
+		"date": "2020/07/13 - 2020/07/18",
+		"location": "Vienna, Austria",
+		"link": "https://icml.cc/Conferences/2020"
 	},
 	{
 		"conference": "NIPS 2019",
@@ -25,7 +25,7 @@ var data = [
 		"paper": "2018/09/27",
 		"notification": "2018/12/20",
 		"date": "2019/05/06 - 2019/05/09",
-		"location": "New Orleans, Louisiana, USA",
+		"location": "New Orleans, Louisiana, United States",
 		"link": "https://iclr.cc/Conferences/2019"
 	},
 	{
@@ -34,21 +34,21 @@ var data = [
 		"paper": "2018/11/16",
 		"notification": "2019/03/02",
 		"date": "2019/06/15 - 2019/06/21",
-		"location": "Long Beach, California, USA",
+		"location": "Long Beach, California, United States",
 		"link": "http://cvpr2019.thecvf.com/"
 	},
 	{
-		"conference": "ACL 2019",
+		"conference": "ACL 2020",
 		"abstract": "",
-		"paper": "2019/03/04",
-		"notification": "2019/05/13",
-		"date": "2019/07/28 - 2019/08/02",
-		"location": "Florence, Italy",
-		"link": "http://acl2019.org/"
+		"paper": "",
+		"notification": "",
+		"date": "2020/07/06 - 2020/07/11",
+		"location": "Seattle, Washington, United States",
+		"link": "https://acl2020.org/"
 	},
 	{
 		"conference": "EMNLP 2019",
-		"abstract": "",
+		"abstract": "2019/05/15",
 		"paper": "2019/05/21",
 		"notification": "2019/08/12",
 		"date": "2019/11/03 - 2018/11/07",
@@ -61,17 +61,17 @@ var data = [
 		"paper": "",
 		"notification": "",
 		"date": "2020/02/07 - 2020/02/12",
-		"location": "New York, New York, USA",
+		"location": "New York, New York, United States",
 		"link": "https://aaai.org/Conferences/AAAI-20/"
 	},
 	{
-		"conference": "IJCAI 2019",
+		"conference": "IJCAI 2020",
 		"abstract": "",
-		"paper": "2019/02/25",
-		"notification": "2019/05/09",
-		"date": "2019/08/10 - 2019/08/16",
-		"location": "Macao, China",
-		"link": "http://ijcai19.org/"
+		"paper": "",
+		"notification": "",
+		"date": "2020/07/11 - 2020/07/17",
+		"location": "Yokohama, Japan",
+		"link": "https://ijcai20.org/"
 	},
 	{
 		"conference": "KDD 2019",
@@ -79,7 +79,7 @@ var data = [
 		"paper": "2019/02/03",
 		"notification": "2019/04/28",
 		"date": "2019/08/03 - 2019/08/07",
-		"location": "Anchorage, Alaska, USA",
+		"location": "Anchorage, Alaska, United States",
 		"link": "http://www.kdd.org/kdd2019/"
 	},
 	{
@@ -115,7 +115,7 @@ var data = [
 		"paper": "2018/12/10",
 		"notification": "2019/02/22",
 		"date": "2019/06/02 - 2019/06/07",
-		"location": "Minneapolis, Minnesota, USA",
+		"location": "Minneapolis, Minnesota, United States",
 		"link": "http://naacl2019.org/"
 	},
 ];
