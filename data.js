@@ -29,13 +29,13 @@ var data = [
 		"link": "https://iclr.cc/Conferences/2019"
 	},
 	{
-		"conference": "CVPR 2019",
+		"conference": "CVPR 2020",
 		"abstract": "",
-		"paper": "2018/11/16",
-		"notification": "2019/03/02",
-		"date": "2019/06/15 - 2019/06/21",
-		"location": "Long Beach, California, United States",
-		"link": "http://cvpr2019.thecvf.com/"
+		"paper": "",
+		"notification": "",
+		"date": "2020/06/14 - 2020/06/19",
+		"location": "Seattle, Washington, United States",
+		"link": "http://cvpr2020.thecvf.com/"
 	},
 	{
 		"conference": "ACL 2020",
@@ -57,9 +57,9 @@ var data = [
 	},
 	{
 		"conference": "AAAI 2020",
-		"abstract": "",
-		"paper": "",
-		"notification": "",
+		"abstract": "2019/08/30",
+		"paper": "2019/09/05",
+		"notification": "2019/11/10",
 		"date": "2020/02/07 - 2020/02/12",
 		"location": "New York, New York, United States",
 		"link": "https://aaai.org/Conferences/AAAI-20/"
