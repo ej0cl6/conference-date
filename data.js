@@ -31,7 +31,7 @@ var data = [
 	{
 		"conference": "CVPR 2020",
 		"abstract": "",
-		"paper": "",
+		"paper": "2019/11/15",
 		"notification": "",
 		"date": "2020/06/14 - 2020/06/19",
 		"location": "Seattle, Washington, United States",
@@ -40,8 +40,8 @@ var data = [
 	{
 		"conference": "ACL 2020",
 		"abstract": "",
-		"paper": "",
-		"notification": "",
+		"paper": "2019/12/09",
+		"notification": "2020/04/03",
 		"date": "2020/07/06 - 2020/07/11",
 		"location": "Seattle, Washington, United States",
 		"link": "https://acl2020.org/"
@@ -74,13 +74,13 @@ var data = [
 		"link": "https://ijcai20.org/"
 	},
 	{
-		"conference": "KDD 2019",
+		"conference": "KDD 2020",
 		"abstract": "",
-		"paper": "2019/02/03",
-		"notification": "2019/04/28",
-		"date": "2019/08/03 - 2019/08/07",
-		"location": "Anchorage, Alaska, United States",
-		"link": "http://www.kdd.org/kdd2019/"
+		"paper": "",
+		"notification": "",
+		"date": "2020/08/22 - 2020/08/27",
+		"location": "San Diego, California, United States",
+		"link": "https://www.kdd.org/kdd2020/"
 	},
 	{
 		"conference": "ICDM 2019",
@@ -105,8 +105,8 @@ var data = [
 		"abstract": "",
 		"paper": "",
 		"notification": "",
-		"date": "2020/08/29 - 2020/09/04",
-		"location": "Edinburgh, United Kingdom",
+		"date": "2020/08/23 - 2020/08/28",
+		"location": "Glasgow, Scotland, United Kingdom",
 		"link": "http://eccv2020.eu/"
 	},
 	{
