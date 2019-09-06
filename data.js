@@ -32,7 +32,7 @@ var data = [
 		"conference": "CVPR 2020",
 		"abstract": "",
 		"paper": "2019/11/15",
-		"notification": "",
+		"notification": "2020/02/23",
 		"date": "2020/06/14 - 2020/06/19",
 		"location": "Seattle, Washington, United States",
 		"link": "http://cvpr2020.thecvf.com/"
