@@ -42,7 +42,7 @@ var data = [
 		"abstract": "",
 		"paper": "2019/12/09",
 		"notification": "2020/04/03",
-		"date": "2020/07/06 - 2020/07/11",
+		"date": "2020/07/05 - 2020/07/10",
 		"location": "Seattle, Washington, United States",
 		"link": "https://acl2020.org/"
 	},
@@ -66,9 +66,9 @@ var data = [
 	},
 	{
 		"conference": "IJCAI 2020",
-		"abstract": "",
-		"paper": "",
-		"notification": "",
+		"abstract": "2020/01/15",
+		"paper": "2020/01/21",
+		"notification": "2020/04/19",
 		"date": "2020/07/11 - 2020/07/17",
 		"location": "Yokohama, Japan",
 		"link": "https://ijcai20.org/"
