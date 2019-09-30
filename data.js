@@ -1,10 +1,10 @@
-var label = ["conference", "abstract", "paper", "notification", "date", "location"];
+	var label = ["conference", "abstract", "paper", "notification", "date", "location"];
 var check = ["abstract", "paper", "notification"];
 var data = [
 	{
 		"conference": "ICML 2020",
 		"abstract": "",
-		"paper": "",
+		"paper": "2020/01/07",
 		"notification": "",
 		"date": "2020/07/13 - 2020/07/18",
 		"location": "Vienna, Austria",
