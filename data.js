@@ -3,10 +3,10 @@ var check = ["abstract", "paper", "notification"];
 var data = [
 	{
 		"conference": "ICML 2020",
-		"abstract": "",
-		"paper": "2020/01/07",
+		"abstract": "2020/01/30",
+		"paper": "2020/02/06",
 		"notification": "",
-		"date": "2020/07/13 - 2020/07/18",
+		"date": "2020/07/12 - 2020/07/18",
 		"location": "Vienna, Austria",
 		"link": "https://icml.cc/Conferences/2020"
 	},
@@ -76,8 +76,8 @@ var data = [
 	{
 		"conference": "KDD 2020",
 		"abstract": "",
-		"paper": "",
-		"notification": "",
+		"paper": "2020/02/13",
+		"notification": "2020/05/15",
 		"date": "2020/08/22 - 2020/08/27",
 		"location": "San Diego, California, United States",
 		"link": "https://www.kdd.org/kdd2020/"
@@ -103,8 +103,8 @@ var data = [
 	{
 		"conference": "ECCV 2020",
 		"abstract": "",
-		"paper": "",
-		"notification": "",
+		"paper": "2020/03/05",
+		"notification": "2020/07/03",
 		"date": "2020/08/23 - 2020/08/28",
 		"location": "Glasgow, Scotland, United Kingdom",
 		"link": "http://eccv2020.eu/"
