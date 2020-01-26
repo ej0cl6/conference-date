@@ -11,13 +11,13 @@ var data = [
 		"link": "https://icml.cc/Conferences/2020"
 	},
 	{
-		"conference": "NIPS 2019",
-		"abstract": "2019/05/16",
-		"paper": "2019/05/23",
-		"notification": "2019/09/04",
-		"date": "2019/12/08 - 2019/12/14",
+		"conference": "NIPS 2020",
+		"abstract": "",
+		"paper": "",
+		"notification": "",
+		"date": "2020/12/06 - 2020/12/12",
 		"location": "Vancouver, Canada",
-		"link": "https://nips.cc/Conferences/2019"
+		"link": "https://nips.cc/Conferences/2020"
 	},
 	{
 		"conference": "ICLR 2020",
@@ -29,15 +29,6 @@ var data = [
 		"link": "https://iclr.cc/Conferences/2020"
 	},
 	{
-		"conference": "CVPR 2020",
-		"abstract": "",
-		"paper": "2019/11/15",
-		"notification": "2020/02/23",
-		"date": "2020/06/14 - 2020/06/19",
-		"location": "Seattle, Washington, United States",
-		"link": "http://cvpr2020.thecvf.com/"
-	},
-	{
 		"conference": "ACL 2020",
 		"abstract": "",
 		"paper": "2019/12/09",
@@ -47,13 +38,13 @@ var data = [
 		"link": "https://acl2020.org/"
 	},
 	{
-		"conference": "EMNLP 2019",
-		"abstract": "2019/05/15",
-		"paper": "2019/05/21",
-		"notification": "2019/08/12",
-		"date": "2019/11/03 - 2018/11/07",
-		"location": "Hong Kong, China",
-		"link": "https://www.emnlp-ijcnlp2019.org/"
+		"conference": "EMNLP 2020",
+		"abstract": "",
+		"paper": "2020/05/11",
+		"notification": "2020/08/08",
+		"date": "2020/11/08 - 2020/11/12",
+		"location": "Punta Cana, Dominican Republic",
+		"link": "https://2020.emnlp.org/"
 	},
 	{
 		"conference": "AAAI 2020",
@@ -90,6 +81,15 @@ var data = [
 		"date": "2019/11/08 - 2019/11/11",
 		"location": "Beijing, China",
 		"link": "http://icdm2019.bigke.org/"
+	},
+	{
+		"conference": "CVPR 2020",
+		"abstract": "",
+		"paper": "2019/11/15",
+		"notification": "2020/02/23",
+		"date": "2020/06/14 - 2020/06/19",
+		"location": "Seattle, Washington, United States",
+		"link": "http://cvpr2020.thecvf.com/"
 	},
 	{
 		"conference": "ICCV 2019",
