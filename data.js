@@ -12,8 +12,8 @@ var data = [
 	},
 	{
 		"conference": "NIPS 2020",
-		"abstract": "",
-		"paper": "",
+		"abstract": "2020/05/27",
+		"paper": "2020/06/03",
 		"notification": "",
 		"date": "2020/12/06 - 2020/12/12",
 		"location": "Vancouver, Canada",
@@ -40,20 +40,20 @@ var data = [
 	{
 		"conference": "EMNLP 2020",
 		"abstract": "",
-		"paper": "2020/05/11",
-		"notification": "2020/08/08",
-		"date": "2020/11/08 - 2020/11/12",
+		"paper": "2020/06/01",
+		"notification": "2020/09/14",
+		"date": "2020/11/16 - 2020/11/20",
 		"location": "Punta Cana, Dominican Republic",
 		"link": "https://2020.emnlp.org/"
 	},
 	{
-		"conference": "AAAI 2020",
-		"abstract": "2019/08/30",
-		"paper": "2019/09/05",
-		"notification": "2019/11/10",
-		"date": "2020/02/07 - 2020/02/12",
-		"location": "New York, New York, United States",
-		"link": "https://aaai.org/Conferences/AAAI-20/"
+		"conference": "AAAI 2021",
+		"abstract": "",
+		"paper": "",
+		"notification": "",
+		"date": "2021/02/02 - 2021/02/09",
+		"location": "Vancouver, Canada",
+		"link": "https://aaai.org/Conferences/AAAI-21/"
 	},
 	{
 		"conference": "IJCAI 2020",
@@ -74,13 +74,13 @@ var data = [
 		"link": "https://www.kdd.org/kdd2020/"
 	},
 	{
-		"conference": "ICDM 2019",
+		"conference": "ICDM 2020",
 		"abstract": "",
-		"paper": "2019/06/05",
-		"notification": "2019/08/08",
-		"date": "2019/11/08 - 2019/11/11",
-		"location": "Beijing, China",
-		"link": "http://icdm2019.bigke.org/"
+		"paper": "2020/06/11",
+		"notification": "2020/08/20",
+		"date": "2020/11/17 - 2020/11/20",
+		"location": "Sorrento, Italy",
+		"link": "http://icdm2020.bigke.org/"
 	},
 	{
 		"conference": "CVPR 2020",
