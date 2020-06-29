@@ -20,13 +20,13 @@ var data = [
 		"link": "https://nips.cc/Conferences/2020"
 	},
 	{
-		"conference": "ICLR 2020",
+		"conference": "ICLR 2021",
 		"abstract": "",
-		"paper": "2019/09/25",
-		"notification": "2019/12/19",
-		"date": "2020/04/26 - 2020/04/30",
-		"location": "Addis Ababa, Ethiopia",
-		"link": "https://iclr.cc/Conferences/2020"
+		"paper": "",
+		"notification": "",
+		"date": "2021/05/04 - 2021/05/08",
+		"location": "Vienna, Austria",
+		"link": "https://iclr.cc/Conferences/2021"
 	},
 	{
 		"conference": "ACL 2020",
@@ -48,9 +48,9 @@ var data = [
 	},
 	{
 		"conference": "AAAI 2021",
-		"abstract": "",
-		"paper": "",
-		"notification": "",
+		"abstract": "2020/09/01",
+		"paper": "2020/09/09",
+		"notification": "2020/12/01",
 		"date": "2021/02/02 - 2021/02/09",
 		"location": "Vancouver, Canada",
 		"link": "https://aaai.org/Conferences/AAAI-21/"
@@ -83,13 +83,13 @@ var data = [
 		"link": "http://icdm2020.bigke.org/"
 	},
 	{
-		"conference": "CVPR 2020",
+		"conference": "CVPR 2021",
 		"abstract": "",
-		"paper": "2019/11/15",
-		"notification": "2020/02/23",
-		"date": "2020/06/14 - 2020/06/19",
-		"location": "Seattle, Washington, United States",
-		"link": "http://cvpr2020.thecvf.com/"
+		"paper": "2020/11/16",
+		"notification": "",
+		"date": "2021/06/19 - 2021/06/25",
+		"location": "Nashville, Tennessee, United States",
+		"link": "http://cvpr2021.thecvf.com/"
 	},
 	{
 		"conference": "ICCV 2019",
@@ -110,13 +110,13 @@ var data = [
 		"link": "http://eccv2020.eu/"
 	},
 	{
-		"conference": "NAACL 2019",
-		"abstract": "2018/12/03",
-		"paper": "2018/12/10",
-		"notification": "2019/02/22",
-		"date": "2019/06/02 - 2019/06/07",
-		"location": "Minneapolis, Minnesota, United States",
-		"link": "http://naacl2019.org/"
+		"conference": "NAACL 2021",
+		"abstract": "",
+		"paper": "",
+		"notification": "",
+		"date": "2021/06/06 - 2021/06/11",
+		"location": "Mexico, Mexico",
+		"link": "http://naacl2021.org/"
 	},
 ];
 
