@@ -29,13 +29,13 @@ var data = [
 		"link": "https://iclr.cc/Conferences/2021"
 	},
 	{
-		"conference": "ACL 2020",
+		"conference": "ACL 2021",
 		"abstract": "",
-		"paper": "2019/12/09",
-		"notification": "2020/04/03",
-		"date": "2020/07/05 - 2020/07/10",
-		"location": "Seattle, Washington, United States",
-		"link": "https://acl2020.org/"
+		"paper": "",
+		"notification": "",
+		"date": "2021/08/01 - 2021/08/06",
+		"location": "Bangkok, Thailand",
+		"link": "https://2021.aclweb.org/"
 	},
 	{
 		"conference": "EMNLP 2020",
