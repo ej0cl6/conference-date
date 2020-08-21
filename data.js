@@ -2,13 +2,13 @@
 var check = ["abstract", "paper", "notification"];
 var data = [
 	{
-		"conference": "ICML 2020",
-		"abstract": "2020/01/30",
-		"paper": "2020/02/06",
+		"conference": "ICML 2021",
+		"abstract": "",
+		"paper": "",
 		"notification": "",
-		"date": "2020/07/12 - 2020/07/18",
+		"date": "2021/07/18 - 2021/07/24",
 		"location": "Vienna, Austria",
-		"link": "https://icml.cc/Conferences/2020"
+		"link": "https://icml.cc/Conferences/2021"
 	},
 	{
 		"conference": "NIPS 2020",
