@@ -47,6 +47,15 @@ var data = [
 		"link": "https://2020.emnlp.org/"
 	},
 	{
+		"conference": "NAACL 2021",
+		"abstract": "",
+		"paper": "2020/11/23",
+		"notification": "2021/03/10",
+		"date": "2021/06/06 - 2021/06/11",
+		"location": "Mexico, Mexico",
+		"link": "https://2021.naacl.org/"
+	},
+	{
 		"conference": "AAAI 2021",
 		"abstract": "2020/09/01",
 		"paper": "2020/09/09",
@@ -56,22 +65,22 @@ var data = [
 		"link": "https://aaai.org/Conferences/AAAI-21/"
 	},
 	{
-		"conference": "IJCAI 2020",
-		"abstract": "2020/01/15",
-		"paper": "2020/01/21",
-		"notification": "2020/04/19",
-		"date": "2020/07/11 - 2020/07/17",
-		"location": "Yokohama, Japan",
-		"link": "https://ijcai20.org/"
+		"conference": "IJCAI 2021",
+		"abstract": "2021/01/12",
+		"paper": "2021/01/18",
+		"notification": "2021/04/25",
+		"date": "2021/08/21 - 2021/08/26",
+		"location": "Montreal, Canada",
+		"link": "https://ijcai-21.org/"
 	},
 	{
-		"conference": "KDD 2020",
+		"conference": "KDD 2021",
 		"abstract": "",
-		"paper": "2020/02/13",
-		"notification": "2020/05/15",
-		"date": "2020/08/22 - 2020/08/27",
-		"location": "San Diego, California, United States",
-		"link": "https://www.kdd.org/kdd2020/"
+		"paper": "",
+		"notification": "",
+		"date": "2021/08/14 - 2021/08/18",
+		"location": "Singapore",
+		"link": "https://www.kdd.org/kdd2021/"
 	},
 	{
 		"conference": "ICDM 2020",
@@ -92,13 +101,13 @@ var data = [
 		"link": "http://cvpr2021.thecvf.com/"
 	},
 	{
-		"conference": "ICCV 2019",
+		"conference": "ICCV 2021",
 		"abstract": "",
-		"paper": "2019/03/22",
-		"notification": "2019/07/22",
-		"date": "2019/10/27 - 2019/11/03",
-		"location": "Seoul, Korea",
-		"link": "http://iccv2019.thecvf.com/"
+		"paper": "2021/03/17",
+		"notification": "2021/07/22",
+		"date": "2021/10/11 - 2021/10/17",
+		"location": "Montreal, Canada",
+		"link": "http://iccv2021.thecvf.com/"
 	},
 	{
 		"conference": "ECCV 2020",
@@ -108,15 +117,6 @@ var data = [
 		"date": "2020/08/23 - 2020/08/28",
 		"location": "Glasgow, Scotland, United Kingdom",
 		"link": "http://eccv2020.eu/"
-	},
-	{
-		"conference": "NAACL 2021",
-		"abstract": "",
-		"paper": "",
-		"notification": "",
-		"date": "2021/06/06 - 2021/06/11",
-		"location": "Mexico, Mexico",
-		"link": "http://naacl2021.org/"
 	},
 ];
 
