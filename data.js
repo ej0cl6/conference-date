@@ -1,11 +1,11 @@
-	var label = ["conference", "abstract", "paper", "notification", "date", "location"];
+var label = ["conference", "abstract", "paper", "notification", "date", "location"];
 var check = ["abstract", "paper", "notification"];
 var data = [
 	{
 		"conference": "ICML 2021",
-		"abstract": "",
-		"paper": "",
-		"notification": "",
+		"abstract": "2021/01/28",
+		"paper": "2021/02/04",
+		"notification": "2021/05/08",
 		"date": "2021/07/18 - 2021/07/24",
 		"location": "Vienna, Austria",
 		"link": "https://icml.cc/Conferences/2021"
@@ -30,21 +30,21 @@ var data = [
 	},
 	{
 		"conference": "ACL 2021",
-		"abstract": "",
-		"paper": "",
-		"notification": "",
+		"abstract": "2021/01/25",
+		"paper": "2021/02/01",
+		"notification": "2021/05/05",
 		"date": "2021/08/01 - 2021/08/06",
 		"location": "Bangkok, Thailand",
 		"link": "https://2021.aclweb.org/"
 	},
 	{
-		"conference": "EMNLP 2020",
+		"conference": "EMNLP 2021",
 		"abstract": "",
-		"paper": "2020/06/01",
-		"notification": "2020/09/14",
-		"date": "2020/11/16 - 2020/11/20",
+		"paper": "",
+		"notification": "",
+		"date": "2021/11/07 - 2021/11/11",
 		"location": "Punta Cana, Dominican Republic",
-		"link": "https://2020.emnlp.org/"
+		"link": "https://2021.emnlp.org/"
 	},
 	{
 		"conference": "NAACL 2021",
@@ -76,8 +76,8 @@ var data = [
 	{
 		"conference": "KDD 2021",
 		"abstract": "",
-		"paper": "",
-		"notification": "",
+		"paper": "2021/02/08",
+		"notification": "2021/05/17",
 		"date": "2021/08/14 - 2021/08/18",
 		"location": "Singapore",
 		"link": "https://www.kdd.org/kdd2021/"
