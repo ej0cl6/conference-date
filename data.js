@@ -39,9 +39,9 @@ var data = [
 	},
 	{
 		"conference": "EMNLP 2021",
-		"abstract": "",
-		"paper": "",
-		"notification": "",
+		"abstract": "2021/05/10",
+		"paper": "2021/05/17",
+		"notification": "2021/08/25",
 		"date": "2021/11/07 - 2021/11/11",
 		"location": "Punta Cana, Dominican Republic",
 		"link": "https://2021.emnlp.org/"
@@ -83,13 +83,13 @@ var data = [
 		"link": "https://www.kdd.org/kdd2021/"
 	},
 	{
-		"conference": "ICDM 2020",
+		"conference": "ICDM 2021",
 		"abstract": "",
-		"paper": "2020/06/11",
-		"notification": "2020/08/20",
-		"date": "2020/11/17 - 2020/11/20",
-		"location": "Sorrento, Italy",
-		"link": "http://icdm2020.bigke.org/"
+		"paper": "2021/06/11",
+		"notification": "2021/08/31",
+		"date": "2021/12/07 - 2021/12/10",
+		"location": "Auckland, New Zealand",
+		"link": "https://icdm2021.auckland.ac.nz/"
 	},
 	{
 		"conference": "CVPR 2021",
