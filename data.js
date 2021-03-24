@@ -11,13 +11,13 @@ var data = [
 		"link": "https://icml.cc/Conferences/2021"
 	},
 	{
-		"conference": "NIPS 2020",
-		"abstract": "2020/05/27",
-		"paper": "2020/06/03",
-		"notification": "",
-		"date": "2020/12/06 - 2020/12/12",
-		"location": "Vancouver, Canada",
-		"link": "https://nips.cc/Conferences/2020"
+		"conference": "NIPS 2021",
+		"abstract": "2021/05/19",
+		"paper": "2021/05/26",
+		"notification": "2021/09/28",
+		"date": "2021/12/06 - 2021/21/14",
+		"location": "Virtual",
+		"link": "https://nips.cc/Conferences/2021"
 	},
 	{
 		"conference": "ICLR 2021",
