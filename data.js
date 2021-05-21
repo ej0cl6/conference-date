@@ -56,13 +56,13 @@ var data = [
 		"link": "https://2021.naacl.org/"
 	},
 	{
-		"conference": "AAAI 2021",
-		"abstract": "2020/09/01",
-		"paper": "2020/09/09",
-		"notification": "2020/12/01",
-		"date": "2021/02/02 - 2021/02/09",
-		"location": "Vancouver, Canada",
-		"link": "https://aaai.org/Conferences/AAAI-21/"
+		"conference": "AAAI 2022",
+		"abstract": "",
+		"paper": "",
+		"notification": "",
+		"date": "2022/02/22 - 2022/03/01",
+		"location": "Vancouver, British Columbia, Canada",
+		"link": "https://aaai.org/Conferences/AAAI-22/"
 	},
 	{
 		"conference": "IJCAI 2021",
