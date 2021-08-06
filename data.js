@@ -29,13 +29,13 @@ var data = [
 		"link": "https://iclr.cc/Conferences/2022"
 	},
 	{
-		"conference": "ACL 2021",
-		"abstract": "2021/01/25",
-		"paper": "2021/02/01",
-		"notification": "2021/05/05",
-		"date": "2021/08/01 - 2021/08/06",
-		"location": "Bangkok, Thailand",
-		"link": "https://2021.aclweb.org/"
+		"conference": "ACL 2022",
+		"abstract": "",
+		"paper": "2021/11/15",
+		"notification": "2022/02/20",
+		"date": "2022/05/22 - 2022/05/27",
+		"location": "Dublin, Ireland",
+		"link": "https://2022.aclweb.org/"
 	},
 	{
 		"conference": "EMNLP 2021",
