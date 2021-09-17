@@ -47,13 +47,13 @@ var data = [
 		"link": "https://2021.emnlp.org/"
 	},
 	{
-		"conference": "NAACL 2021",
+		"conference": "NAACL 202",
 		"abstract": "",
-		"paper": "2020/11/23",
-		"notification": "2021/03/10",
-		"date": "2021/06/06 - 2021/06/11",
-		"location": "Mexico, Mexico",
-		"link": "https://2021.naacl.org/"
+		"paper": "2022/01/15",
+		"notification": "2022/04/07",
+		"date": "2022/07/10 - 2022/07/15",
+		"location": "Seattle, Washington, United States",
+		"link": "https://2022.naacl.org/"
 	},
 	{
 		"conference": "AAAI 2022",
@@ -65,13 +65,13 @@ var data = [
 		"link": "https://aaai.org/Conferences/AAAI-22/"
 	},
 	{
-		"conference": "IJCAI 2021",
-		"abstract": "2021/01/12",
-		"paper": "2021/01/18",
-		"notification": "2021/04/25",
-		"date": "2021/08/21 - 2021/08/26",
-		"location": "Montreal, Canada",
-		"link": "https://ijcai-21.org/"
+		"conference": "IJCAI 2022",
+		"abstract": "2022/01/07",
+		"paper": "2022/01/14",
+		"notification": "2022/04/20",
+		"date": "2022/07/23 - 2022/07/29",
+		"location": "Vienna, Austria",
+		"link": "https://ijcai-22.org/"
 	},
 	{
 		"conference": "KDD 2021",
