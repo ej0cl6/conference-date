@@ -2,13 +2,13 @@ var label = ["conference", "abstract", "paper", "notification", "date", "locatio
 var check = ["abstract", "paper", "notification"];
 var data = [
 	{
-		"conference": "ICML 2021",
-		"abstract": "2021/01/28",
-		"paper": "2021/02/04",
-		"notification": "2021/05/08",
-		"date": "2021/07/18 - 2021/07/24",
-		"location": "Vienna, Austria",
-		"link": "https://icml.cc/Conferences/2021"
+		"conference": "ICML 2022",
+		"abstract": "",
+		"paper": "",
+		"notification": "",
+		"date": "2022/07/17 - 2022/07/23",
+		"location": "",
+		"link": "https://icml.cc/Conferences/2022"
 	},
 	{
 		"conference": "NIPS 2021",
@@ -74,13 +74,13 @@ var data = [
 		"link": "https://ijcai-22.org/"
 	},
 	{
-		"conference": "KDD 2021",
+		"conference": "KDD 2022",
 		"abstract": "",
-		"paper": "2021/02/08",
-		"notification": "2021/05/17",
-		"date": "2021/08/14 - 2021/08/18",
-		"location": "Singapore",
-		"link": "https://www.kdd.org/kdd2021/"
+		"paper": "2022/02/10",
+		"notification": "2022/05/19",
+		"date": "2022/08/14 - 2022/08/18",
+		"location": "Washington DC, United States",
+		"link": "https://kdd.org/kdd2022/"
 	},
 	{
 		"conference": "ICDM 2021",
