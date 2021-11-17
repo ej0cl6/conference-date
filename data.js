@@ -3,8 +3,8 @@ var check = ["abstract", "paper", "notification"];
 var data = [
 	{
 		"conference": "ICML 2022",
-		"abstract": "",
-		"paper": "",
+		"abstract": "2022/01/20",
+		"paper": "2022/01/27",
 		"notification": "",
 		"date": "2022/07/17 - 2022/07/23",
 		"location": "",
