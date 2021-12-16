@@ -47,7 +47,7 @@ var data = [
 		"link": "https://2021.emnlp.org/"
 	},
 	{
-		"conference": "NAACL 202",
+		"conference": "NAACL 2022",
 		"abstract": "",
 		"paper": "2022/01/15",
 		"notification": "2022/04/07",
@@ -110,13 +110,13 @@ var data = [
 		"link": "http://iccv2021.thecvf.com/"
 	},
 	{
-		"conference": "ECCV 2020",
+		"conference": "ECCV 2022",
 		"abstract": "",
-		"paper": "2020/03/05",
-		"notification": "2020/07/03",
-		"date": "2020/08/23 - 2020/08/28",
-		"location": "Glasgow, Scotland, United Kingdom",
-		"link": "http://eccv2020.eu/"
+		"paper": "2022/03/07",
+		"notification": "2022/07/03",
+		"date": "2022/10/24 - 2022/10/28",
+		"location": "Tel Aviv, Israel",
+		"link": "https://eccv2022.ecva.net/"
 	},
 ];
 
