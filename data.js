@@ -39,9 +39,9 @@ var data = [
 	},
 	{
 		"conference": "EMNLP 2022",
-		"abstract": "",
-		"paper": "",
-		"notification": "",
+		"abstract": "2022/06/17",
+		"paper": "2022/06/24",
+		"notification": "2022/10/06",
 		"date": "2022/12/07 - 2022/12/11",
 		"location": "Abu Dhabi, United Arab Emirates",
 		"link": "https://2022.emnlp.org/"
