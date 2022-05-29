@@ -56,13 +56,13 @@ var data = [
 		"link": "https://2022.naacl.org/"
 	},
 	{
-		"conference": "AAAI 2022",
-		"abstract": "2021/08/30",
-		"paper": "2021/09/08",
-		"notification": "2021/11/29",
-		"date": "2022/02/22 - 2022/03/01",
-		"location": "Vancouver, British Columbia, Canada",
-		"link": "https://aaai.org/Conferences/AAAI-22/"
+		"conference": "AAAI 2023",
+		"abstract": "2022/08/08",
+		"paper": "2022/08/15",
+		"notification": "",
+		"date": "2023/02/07 - 2023/02/14",
+		"location": "Washington DC, United States",
+		"link": "https://aaai.org/Conferences/AAAI-23/"
 	},
 	{
 		"conference": "IJCAI 2022",
