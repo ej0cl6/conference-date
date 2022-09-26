@@ -56,10 +56,19 @@ var data = [
 		"link": "https://2022.naacl.org/"
 	},
 	{
+		"conference": "EACL 2023",
+		"abstract": "2022/10/13",
+		"paper": "2022/10/20",
+		"notification": "2023/01/20",
+		"date": "2023/05/02 - 2023/05/06",
+		"location": "Dubrovnik, Croatia",
+		"link": "https://2023.eacl.org/"
+	},
+	{
 		"conference": "AAAI 2023",
 		"abstract": "2022/08/08",
 		"paper": "2022/08/15",
-		"notification": "",
+		"notification": "2022/11/18",
 		"date": "2023/02/07 - 2023/02/14",
 		"location": "Washington DC, United States",
 		"link": "https://aaai.org/Conferences/AAAI-23/"
