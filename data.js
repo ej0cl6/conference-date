@@ -4,7 +4,7 @@ var data = [
 	{
 		"conference": "ICML 2023",
 		"abstract": "",
-		"paper": "",
+		"paper": "2023/01/26",
 		"notification": "",
 		"date": "2023/07/23 - 2023/07/29",
 		"location": "Hawaii, United States",
@@ -75,9 +75,9 @@ var data = [
 	},
 	{
 		"conference": "IJCAI 2023",
-		"abstract": "",
-		"paper": "",
-		"notification": "",
+		"abstract": "2023/01/11",
+		"paper": "2023/01/18",
+		"notification": "2023/04/19",
 		"date": "2023/08/19 - 2023/08/25",
 		"location": "Cape Town, South Africa",
 		"link": "https://ijcai-23.org/"
