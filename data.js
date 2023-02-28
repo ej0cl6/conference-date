@@ -11,13 +11,13 @@ var data = [
 		"link": "https://icml.cc/Conferences/2023"
 	},
 	{
-		"conference": "NIPS 2022",
-		"abstract": "2022/05/16",
-		"paper": "2022/05/19",
-		"notification": "2022/09/14",
-		"date": "2022/11/28 - 2021/12/09",
+		"conference": "NIPS 2023",
+		"abstract": "2023/05/11",
+		"paper": "2023/05/17",
+		"notification": "2023/09/21",
+		"date": "2023/12/10 - 2021/12/16",
 		"location": "New Orleans, Louisiana, United States",
-		"link": "https://nips.cc/Conferences/2022"
+		"link": "https://nips.cc/Conferences/2023"
 	},
 	{
 		"conference": "ICLR 2023",
@@ -83,13 +83,13 @@ var data = [
 		"link": "https://ijcai-23.org/"
 	},
 	{
-		"conference": "KDD 2022",
+		"conference": "KDD 2023",
 		"abstract": "",
-		"paper": "2022/02/10",
-		"notification": "2022/05/19",
-		"date": "2022/08/14 - 2022/08/18",
-		"location": "Washington DC, United States",
-		"link": "https://kdd.org/kdd2022/"
+		"paper": "2023/02/02",
+		"notification": "2023/05/18",
+		"date": "2023/08/06 - 2023/08/10",
+		"location": "Long Beach, California, United States",
+		"link": "https://kdd.org/kdd2023/"
 	},
 	{
 		"conference": "ICDM 2023",
