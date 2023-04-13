@@ -38,13 +38,13 @@ var data = [
 		"link": "https://2023.aclweb.org/"
 	},
 	{
-		"conference": "EMNLP 2022",
-		"abstract": "2022/06/17",
-		"paper": "2022/06/24",
-		"notification": "2022/10/06",
-		"date": "2022/12/07 - 2022/12/11",
-		"location": "Abu Dhabi, United Arab Emirates",
-		"link": "https://2022.emnlp.org/"
+		"conference": "EMNLP 2023",
+		"abstract": "2023/06/16",
+		"paper": "2023/06/23",
+		"notification": "2023/10/06",
+		"date": "2023/12/06 - 2023/12/10",
+		"location": "Singapore",
+		"link": "https://2023.emnlp.org/"
 	},
 	{
 		"conference": "NAACL 2022",
