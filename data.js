@@ -20,13 +20,13 @@ var data = [
 		"link": "https://nips.cc/Conferences/2023"
 	},
 	{
-		"conference": "ICLR 2023",
-		"abstract": "2022/09/21",
-		"paper": "2022/09/28",
-		"notification": "2023/01/20",
-		"date": "2023/05/01 - 2023/05/05",
-		"location": "Kigali, Rwanda",
-		"link": "https://iclr.cc/Conferences/2023"
+		"conference": "ICLR 2024",
+		"abstract": "2023/09/21",
+		"paper": "2023/09/28",
+		"notification": "2024/01/15",
+		"date": "2024/05/07 - 2024/05/11",
+		"location": "Vienna, Austria",
+		"link": "https://iclr.cc/Conferences/2024"
 	},
 	{
 		"conference": "ACL 2023",
@@ -47,13 +47,13 @@ var data = [
 		"link": "https://2023.emnlp.org/"
 	},
 	{
-		"conference": "NAACL 2022",
+		"conference": "NAACL 2024",
 		"abstract": "",
-		"paper": "2022/01/15",
-		"notification": "2022/04/07",
-		"date": "2022/07/10 - 2022/07/15",
-		"location": "Seattle, Washington, United States",
-		"link": "https://2022.naacl.org/"
+		"paper": "2023/12/15",
+		"notification": "2024/03/15",
+		"date": "2024/06/16 - 2024/06/21",
+		"location": "Mexico City, Mexico",
+		"link": "https://2024.naacl.org/"
 	},
 	{
 		"conference": "EACL 2023",
@@ -65,13 +65,13 @@ var data = [
 		"link": "https://2023.eacl.org/"
 	},
 	{
-		"conference": "AAAI 2023",
-		"abstract": "2022/08/08",
-		"paper": "2022/08/15",
-		"notification": "2022/11/18",
-		"date": "2023/02/07 - 2023/02/14",
-		"location": "Washington DC, United States",
-		"link": "https://aaai.org/Conferences/AAAI-23/"
+		"conference": "AAAI 2024",
+		"abstract": "2023/08/08",
+		"paper": "2023/08/15",
+		"notification": "2023/12/09",
+		"date": "2024/02/20 - 2024/02/27",
+		"location": "Vancouver, Canada",
+		"link": "https://aaai.org/aaai-conference/"
 	},
 	{
 		"conference": "IJCAI 2023",
@@ -101,13 +101,13 @@ var data = [
 		"link": "http://www.cloud-conf.net/icdm2023/index.html"
 	},
 	{
-		"conference": "CVPR 2023",
+		"conference": "CVPR 2024",
 		"abstract": "",
-		"paper": "2022/11/11",
-		"notification": "2023/02/27",
-		"date": "2023/06/18 - 2023/06/22",
-		"location": "Vancouver, Canada",
-		"link": "https://cvpr2023.thecvf.com/"
+		"paper": "2023/11/10",
+		"notification": "2024/02/26",
+		"date": "2024/06/17 - 2024/06/21",
+		"location": "Seattle, Washingon, United States",
+		"link": "https://cvpr.thecvf.com/Conferences/2024"
 	},
 	{
 		"conference": "ICCV 2023",
