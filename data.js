@@ -2,13 +2,13 @@ var label = ["conference", "abstract", "paper", "notification", "date", "locatio
 var check = ["abstract", "paper", "notification"];
 var data = [
 	{
-		"conference": "ICML 2023",
+		"conference": "ICML 2024",
 		"abstract": "",
-		"paper": "2023/01/26",
+		"paper": "",
 		"notification": "",
-		"date": "2023/07/23 - 2023/07/29",
-		"location": "Hawaii, United States",
-		"link": "https://icml.cc/Conferences/2023"
+		"date": "2024/07/21 - 2023/07/27",
+		"location": "Vienna, Austria",
+		"link": "https://icml.cc/Conferences/2024"
 	},
 	{
 		"conference": "NIPS 2023",
@@ -29,13 +29,13 @@ var data = [
 		"link": "https://iclr.cc/Conferences/2024"
 	},
 	{
-		"conference": "ACL 2023",
-		"abstract": "2023/01/13",
-		"paper": "2023/01/20",
-		"notification": "2023/05/01",
-		"date": "2023/07/09 - 2023/07/14",
-		"location": "Toronto, Canada",
-		"link": "https://2023.aclweb.org/"
+		"conference": "ACL 2024",
+		"abstract": "",
+		"paper": "2024/02/15",
+		"notification": "2024/05/15",
+		"date": "2024/08/12 - 2024/08/17",
+		"location": "Bangkok, Thailand",
+		"link": "https://2024.aclweb.org/"
 	},
 	{
 		"conference": "EMNLP 2023",
@@ -56,13 +56,13 @@ var data = [
 		"link": "https://2024.naacl.org/"
 	},
 	{
-		"conference": "EACL 2023",
-		"abstract": "2022/10/13",
-		"paper": "2022/10/20",
-		"notification": "2023/01/20",
-		"date": "2023/05/02 - 2023/05/06",
-		"location": "Dubrovnik, Croatia",
-		"link": "https://2023.eacl.org/"
+		"conference": "EACL 2024",
+		"abstract": "",
+		"paper": "2023/10/15",
+		"notification": "2024/01/15",
+		"date": "2024/03/17 - 2024/03/22",
+		"location": "St. Julians, Malta",
+		"link": "https://2024.eacl.org/"
 	},
 	{
 		"conference": "AAAI 2024",
@@ -120,12 +120,12 @@ var data = [
 	},
 	{
 		"conference": "ECCV 2022",
-		"abstract": "",
-		"paper": "2022/03/07",
-		"notification": "2022/07/03",
-		"date": "2022/10/24 - 2022/10/28",
-		"location": "Tel Aviv, Israel",
-		"link": "https://eccv2022.ecva.net/"
+		"abstract": "2024/02/29",
+		"paper": "2024/03/07",
+		"notification": "2024/07/01",
+		"date": "2024/09/29 - 2024/10/04",
+		"location": "Milano, Italy",
+		"link": "https://eccv2024.ecva.net/"
 	},
 ];
 
